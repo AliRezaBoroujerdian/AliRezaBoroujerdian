@@ -16,9 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ### 🔨 Languages and Tools:
+<!-- -- Languages -- -->
+<!-- Assebly -->
 <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/a11fde1b53dc37fcd00bca8fb68ab177882f0324/icons/assembly.svg" alt="assembly" height="42px"/> </a> 
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/2624ad289abc8e1f0d5b5721c8e076e33216f53d/icons/c.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/043e66c9398917692565cbb170f445aa853d08aa/icons/c--4.svg"></a>
+<!-- C++ -->
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/2624ad289abc8e1f0d5b5721c8e076e33216f53d/icons/c.svg" alt="C++" height="42px"/> </a> 
+<!-- C# -->
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/043e66c9398917692565cbb170f445aa853d08aa/icons/c--4.svg"></a>
+
+<br />
+<!-- Assebly -->
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
