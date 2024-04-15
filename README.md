@@ -61,22 +61,26 @@ Here are some ideas to get you started:
 <br />
 <br />
 <hr>
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRezaBoroujerdian&theme=radical&border=7F3FBF&background=0D1117" alt="AliRezaBoroujerdian's GitHub streak"/>
+  </p>
 <br />
 <br />
-<hr>
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliRezaBoroujerdian&theme=radical" alt="AliRezaBoroujerdian's GitHub Contribution"/>
+  </p>
 <br />
 <br />
-<hr>
+<p align="center">
 <img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AliRezaBoroujerdian&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </p>
 <br />
 <br />
-<hr>
+<p align="center">
 <img alt="AliRezaBoroujerdian's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AliRezaBoroujerdian&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </p>
 <br />
 <br />
-<hr>
 
 ![AliReza's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AliRezaBoroujerdian&custom_title=AliRezaBoroujerdian's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
