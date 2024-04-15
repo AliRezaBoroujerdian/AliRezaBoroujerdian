@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!-- Redis -->
 <a href="https://redis.io/" target="_blank"><img align="left" alt="Redis" height ="42px" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/2c170ff70704b0016365a7f20cbef396cf743b7d/icons/redis.svg"></a>
 <!-- Kafka -->
-<a href="https://kafka.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/2c170ff70704b0016365a7f20cbef396cf743b7d/icons/kafka.svg" alt="kafka" height ="42px"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/main/icons/ICON%20-%20White%20on%20Transparent.png" alt="kafka" height ="42px"/> </a>
 
 
 <br>
