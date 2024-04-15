@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/043e66c9398917692565cbb170f445aa853d08aa/icons/c--4.svg"></a>
 
 <br />
+---
 <!-- Assebly -->
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
