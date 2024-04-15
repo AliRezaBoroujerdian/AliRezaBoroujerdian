@@ -29,11 +29,23 @@ Here are some ideas to get you started:
 <!-- C# -->
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img align="left" alt="C#" height ="42px" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/043e66c9398917692565cbb170f445aa853d08aa/icons/c--4.svg"></a>
 
+<!-- Rust -->
+<a href="https://www.rust-lang.org/" target="_blank"><img align="left" alt="rust" height ="42px" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/04cf6e408cdf5cf32d35159c056ba9f6572b8196/icons/rust.svg"></a>
+
+<!-- JS -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="javascript" height ="42px" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/04cf6e408cdf5cf32d35159c056ba9f6572b8196/icons/logo-javascript.svg"></a>
+
+<!-- TS -->
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="typescript" height ="42px" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/04cf6e408cdf5cf32d35159c056ba9f6572b8196/icons/typescript.svg"></a>
+
 <br />
 <br />
 <hr style="border:2px; width:50%; solid gray;">
-<!-- Assebly -->
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height ="42px" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/04cf6e408cdf5cf32d35159c056ba9f6572b8196/icons/git-icon.svg"> </a>
+
+
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
