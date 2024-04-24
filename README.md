@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <br />
 <hr>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRezaBoroujerdian&theme=radical&border=7F3FBF&background=0D1117" alt="AliRezaBoroujerdian's GitHub streak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRezaBoroujerdian&theme=radical&border=7F3FBF&background=0D1117" alt="AliRezaBoroujerdian's GitHub streak"/>-->
   </p>
 <br />
 <br />
