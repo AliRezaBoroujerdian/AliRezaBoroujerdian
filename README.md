@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <a href="https://kafka.apache.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/AliRezaBoroujerdian/AliRezaBoroujerdian/main/icons/ICON%20-%20White%20on%20Transparent.png" alt="kafka" height ="42px"/> </a>
 
 
-<br>
+<br />
 
 <!--  
 <p align="center">
@@ -66,8 +66,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 <hr>
+
 <p align="center">
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRezaBoroujerdian&theme=radical&border=7F3FBF&background=0D1117" alt="AliRezaBoroujerdian's GitHub streak"/>-->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliRezaBoroujerdian&theme=radical&border=7F3FBF&background=0D1117" alt="AliRezaBoroujerdian's GitHub streak"/>
   </p>
 <br />
 <br />
